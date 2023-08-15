@@ -38,6 +38,9 @@ h2 {
     /*cccccc
     1C1917*/
 }
+.me {
+  border-radius: 5px;
+}
 .custom-nav {
     background-color: #2e2b26;
 
